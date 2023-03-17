@@ -12,11 +12,11 @@
   ],
   "action": {
     "default_icon": {
-      "1024": "logo.png"
+      "256": "logo_proc.webp"
     }
   },
   "icons": {
-    "1024": "logo.png"
+    "256": "logo_proc.webp"
   },
   "content_scripts": [
     {
